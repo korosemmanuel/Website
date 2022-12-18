@@ -1,30 +1,20 @@
-<<<<<<< HEAD
-/* html, body {
-=======
+
 html, body {
->>>>>>> a51b349 (changes)
     height: 100%;
     padding: 0;
     margin: 0;
   }
   #map {
-<<<<<<< HEAD
+ 
     /* configure the size of the map 
 =======
     /* configure the size of the map */
->>>>>>> a51b349 (changes)
     padding: 0px;
     margin: 15px;
     height: 85%;
     
-<<<<<<< HEAD
-  } */
+  } 
 
-=======
-  }
-
-  
->>>>>>> a51b349 (changes)
   .title-row:hover {
 
     color: orange;
@@ -35,15 +25,8 @@ html, body {
     text-align: center;
     background-color: #666362;
 
-<<<<<<< HEAD
   }
-
-  .site-footer {
-=======
-}
-
 .site-footer {
->>>>>>> a51b349 (changes)
     background-color: #26272b;
     padding: 45px 0 20px;
     font-size: 15px;
@@ -104,9 +87,4 @@ html, body {
     .site-footer .social-icons {
      text-align: center;
     }
-<<<<<<< HEAD
    }
-
-=======
-   }
->>>>>>> a51b349 (changes)
